@@ -6,7 +6,7 @@
              xmlns:local="clr-namespace:MyPopupIssue"
              mc:Ignorable="d" 
              d:DesignHeight="100" d:DesignWidth="270">
-    <Grid Background="AliceBlue">
+    <Grid Background="AliceBlue" Width="270" Height="100">
         <Button Width="50" Height="20" HorizontalAlignment="Right" VerticalAlignment="Center"
                 Click="TestButton_Click"></Button>
     </Grid>
